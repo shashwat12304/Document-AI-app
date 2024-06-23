@@ -75,6 +75,7 @@ The script will create output folders `invoice1` and `invoice2` within the `invo
 3. **Confidence Filtering**: Filter out entities with confidence scores below a specified threshold and save them to a separate CSV file.
 4. **Output Generation**: Create structured output folders for each processed PDF file, containing the processed PDF, entity data CSV, and low confidence score CSV files.
 
+![Workflow](https://raw.githubusercontent.com/shashwat12304/shashwat12304/main/Utils/documentaiflow.png)
 ## 🧩 Explanation of Classes and Functions
 
 ### `DocumentProcessor` Class
