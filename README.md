@@ -1,7 +1,6 @@
 # 📄 Document AI Invoice Processing Script
-
+![Document AI](https://raw.githubusercontent.com/shashwat12304/shashwat12304/main/Utils/DOCUMENT%20AI%20POST%20BANNER.png)
 This Python script processes invoice PDF files using Google Cloud Document AI and saves the outputs (processed PDF, entity data CSV, and low confidence score CSV) in corresponding folders within the input directory.
-
 ## 📘 Introduction to Document AI
 
 Google Cloud Document AI uses machine learning to automatically classify, extract, and structure data from documents. It leverages state-of-the-art deep learning models to process documents like invoices, receipts, and contracts, enabling you to extract valuable information efficiently and accurately. For a detailed overview, refer to my [Document AI REST API article on Hashnode](https://shashwat12304.hashnode.dev/document-ai-rest-api-google-cloud).
